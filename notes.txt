@@ -20,3 +20,14 @@ git log ile de commit tarihlerini ve yapan kullanıcı bilgileri alınabilir
 değişikliklerimizi her seferinde git add ile ekleriz
 
 eğerki klasördeki herşeyi eklemek istersek (git add .) diyebiliriz
+
+///ÖNEMLİ   Working Directory - Staging Area - Git repository
+
+*Working directory bizim çalıştığımız alan 
+*Staging area bizim git add yaptığımız kısım belki beğenmedik ya tekrardan değiştirmek istedik o zaman geri çekip yeniden ekleriz (git add) bölümü
+*Git Repository ise en kodu attığımız yer (git commit -m "commit edilen koda dair mesaj")
+
+
+(git diff) ile ilk değiştirdiğin ve son commit ettiğin kodu görebilirsin farklılıkları verir
+
+(git checkout) ile de eski commiti geri getirebilirsin
