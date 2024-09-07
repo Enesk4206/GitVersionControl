@@ -14,3 +14,9 @@ git add dosya yada doküman adı verilip commit edilebilir
 trackdan da çıkarmak istediğimizde git rm --cached <file> kullanırız
 
 commit(içeriği aktarma) yapmak istediğimiz herhangi bir dosyayı message opsiyonu ile aktarırız git commit -m "ilk deneme" şeklinde kullanılırız
+
+git log ile de commit tarihlerini ve yapan kullanıcı bilgileri alınabilir 
+
+değişikliklerimizi her seferinde git add ile ekleriz
+
+eğerki klasördeki herşeyi eklemek istersek (git add .) diyebiliriz
