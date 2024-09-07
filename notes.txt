@@ -1,0 +1,12 @@
+İlk olarak bizim bunu kullanmamızın amacı geliştiriciler kendi aralarında kod geliştirirken commit edebiliyorlar geliştirdikleri yerleri 
+
+İkinci olarak da en önemli amaçlardan biriside bu zaten yaptığımız kod hataları nedeniyle kaynak kodu geri getirebilmemizdir
+
+Git kodunu başlatmak için ilk olarak git init kodunu kullanıyoruz
+
+ls-a komutu ile klasördeki gizli git klasörünü görebiliriz
+
+git status ile tracklar(takip) kontrol edilir
+
+eğer ki git status yok ise(kırmızı renkteki dosya isimleri)
+git add dosya yada doküman adı verilip commit edilebilir
