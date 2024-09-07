@@ -10,3 +10,7 @@ git status ile tracklar(takip) kontrol edilir
 
 eğer ki git status yok ise(kırmızı renkteki dosya isimleri)
 git add dosya yada doküman adı verilip commit edilebilir
+
+trackdan da çıkarmak istediğimizde git rm --cached <file> kullanırız
+
+commit(içeriği aktarma) yapmak istediğimiz herhangi bir dosyayı message opsiyonu ile aktarırız git commit -m "ilk deneme" şeklinde kullanılırız
